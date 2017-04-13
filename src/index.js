@@ -11,6 +11,6 @@ ReactDOM.render(
 
 $(window).on('load',function(){
     setTimeout(function(){
-        $('.root').fadeIn(8000)
+        $('.contain').fadeIn(8000)
     },700)
 })
