@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://liucol.github.io/project-react-demo1.1/build",
   "dependencies": {
+    "jquery": "^3.2.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
