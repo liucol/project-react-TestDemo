@@ -9,8 +9,3 @@ ReactDOM.render(
     $('body')[0]
 );
 
-$(window).on('load',function(){
-    setTimeout(function(){
-        $('.contain').fadeIn(8000)
-    },700)
-})
