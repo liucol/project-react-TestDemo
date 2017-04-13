@@ -8,7 +8,7 @@ import foo from './foo'
 function component () {
     var element = j('<div></div>');
     /* lodash is required for the next line to work */
-    element.html(_.join(['Hello','杨柳'], ' '))
+    element.html(_.join(['Hi','杨柳,加油啊！'], ' '))
     return element.get(0);
 }
 
