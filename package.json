@@ -14,6 +14,7 @@
     "webpack": "^2.3.3"
   },
   "dependencies": {
+    "cake-chart": "^0.2.3",
     "jquery": "^3.2.1",
     "lodash": "^4.17.4"
   }

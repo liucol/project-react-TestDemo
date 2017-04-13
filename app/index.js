@@ -3,6 +3,7 @@
  */
 import _ from 'lodash';
 import j from 'jquery';
+//noinspection JSAnnotator
 import foo from './foo'
 function component () {
     var element = j('<div></div>');
