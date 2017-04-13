@@ -6,7 +6,7 @@ import './index.css';
 
 ReactDOM.render(
     <div class="contain">hello firend</div>,
-    $('body')
+    $('body')[0]
 );
 
 $(window).on('load',function(){
