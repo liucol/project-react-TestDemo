@@ -5,12 +5,12 @@ import $ from 'jquery'
 import './index.css';
 
 ReactDOM.render(
-    hello firend,
+    <div class="contain">hello firend</div>,
     document.getElementById('root')
 );
 
 $(window).on('load',function(){
     setTimeout(function(){
-        $('#root').fadeIn(8000)
+        $('.root').fadeIn(8000)
     },700)
 })
